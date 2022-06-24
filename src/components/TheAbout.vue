@@ -6,7 +6,7 @@
       <div class="media">
         <div class="media-left">
           <figure class="image is-48x48">
-            <img src="src/assets/avatar.webp" alt="Placeholder image" />
+            <img src="../assets/github_logo.png" alt="Placeholder image" />
           </figure>
         </div>
         <div class="media-content">
